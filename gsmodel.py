@@ -1,5 +1,5 @@
 import torch
-import 3dgsplat as gsplatcu
+import gsplatcu as gsc   
 from borrowed import *
  
 
